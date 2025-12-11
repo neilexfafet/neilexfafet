@@ -27,7 +27,7 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 ## 💼 Experience
 
 ### **Fligno Software PH**  
-📅 *July 2021 – Present*  
+📅 *July 2021 – November 2025t*  
 **Role:** Software Engineer  
 
 - **OneOnOneFootball:** Built Version 2 as a Full-Stack Engineer (ReactJS + Laravel + MySQL).  
@@ -39,7 +39,7 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 ---
 
 ### **Nibble DEV (Freelance)**  
-📅 *March 2024 – Present*  
+📅 *March 2024 – July 2025*  
 **Role:** Software Engineer  
 
 - **RoyalGlassSupply:** Maintained an inventory system using React Electron and Laravel.  
