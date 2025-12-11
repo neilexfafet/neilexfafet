@@ -18,7 +18,7 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 - **Frontend:** React.js, TypeScript, Svelte, TailwindCSS  
 - **Backend:** Laravel (PHP), Node.js, Express, Prisma  
 - **Mobile:** Flutter  
-- **Database:** MySQL, PostgreSQL  
+- **Database:** MySQL, PostgreSQL, MongoDB  
 - **Tools & Others:** Git, RESTful APIs, Electron, OAuth2, Xero API, BGLCorp integration  
 - **Practices:** Software Architecture, API Design, Software Documentation, Continuous Improvement
 
