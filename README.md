@@ -27,7 +27,7 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 ## 💼 Experience
 
 ### **Fligno Software PH**  
-📅 *July 2021 – November 2025t*  
+📅 *July 2021 – November 2025*  
 **Role:** Software Engineer  
 
 - **OneOnOneFootball:** Built Version 2 as a Full-Stack Engineer (ReactJS + Laravel + MySQL).  
@@ -44,6 +44,20 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 
 - **RoyalGlassSupply:** Maintained an inventory system using React Electron and Laravel.  
 - **Oasis Dental Call Center:** Contributed to a scheduling platform built with Node.js, React.js, TailwindCSS, and Laravel.
+
+### **Christian Trustmaker**  
+📅 *January 2026 – Present*  
+**Role:** PHP Developer (Freelance)
+
+- Implemented Google Analytics on an estate planning platform using PHP, performed database cleanup on a
+production database to optimize performance, and integrated Mailchimp.
+
+### **Trax Technologies**  
+📅 *March 2026 – Present*  
+**Role:** Software Engineer (Contract)
+
+- Implemented key fixes and improvements for the Audit Freight Platform using Java, PostgreSQL,
+and Kafka, enhancing system reliability, data accuracy, and overall performance.
 
 ---
 
@@ -68,12 +82,4 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 
 ---
 
-## 🧩 Fun Facts
-
-- I enjoy mentoring junior developers and helping teams grow.  
-- Passionate about clean code and scalable software architecture.  
-- Always exploring new frameworks and optimization techniques.
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+![Snake animation](https://raw.githubusercontent.com/neilexfafet/neilexfafet/output/github-snake.svg)
