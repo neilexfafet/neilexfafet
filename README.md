@@ -36,7 +36,7 @@ I value **clean architecture**, **collaboration**, and **continuous improvement*
 - **BUGEMCO:** Developed a full-stack system using Svelte and Prisma.  
 - Mentored interns and collaborated with engineers to improve development processes.
 
----
+-
 
 ### **Nibble DEV (Freelance)**  
 📅 *March 2024 – July 2025*  
