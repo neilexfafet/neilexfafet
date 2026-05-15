@@ -79,5 +79,4 @@ and Kafka, enhancing system reliability, data accuracy, and overall performance.
 - 🌍 Location: Cagayan de Oro City, Philippines  
 
 ---
-
 ![Snake animation](https://raw.githubusercontent.com/neilexfafet/neilexfafet/output/github-snake-dark.svg?pallete=github-dark)
