@@ -80,4 +80,4 @@ and Kafka, enhancing system reliability, data accuracy, and overall performance.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/neilexfafet/neilexfafet/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/neilexfafet/neilexfafet/output/github-snake-dark.svg?pallete=github-dark)
