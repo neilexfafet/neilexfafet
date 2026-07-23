@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a skilled and detail-oriented **Software Engineer** with over **4 years of experience** developing, maintaining, and deploying enterprise-level applications.  
+I’m a skilled and detail-oriented **Software Engineer** with over **5 years of experience** developing, maintaining, and deploying enterprise-level applications.  
 My focus is on **Laravel**, **React.js**, and **Node.js** — building scalable systems that integrate seamlessly across platforms.  
 
 I value **clean architecture**, **collaboration**, and **continuous improvement** in every project I work on.
